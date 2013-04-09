@@ -1,0 +1,34 @@
+[07-Dec-2008 12:56:55] PHP Parse error:  syntax error, unexpected ';' in /home7/igolgolc/public_html/goals/list_goals.php on line 35
+[10-Dec-2008 16:03:13] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:03:32] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 07:13:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 07:57:20] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:48:57] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:42] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:58:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:00:07] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:09:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:14:27] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:25:00] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:33:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:35:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:07:28] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:08:47] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:19:31] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[31-Dec-2008 13:23:57] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/goals/create_goal_manager.php on line 296
+[31-Dec-2008 13:24:09] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/goals/create_goal_manager.php on line 296
+[31-Dec-2008 13:31:15] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/goals/create_goal_manager.php on line 298
+[31-Dec-2008 13:51:05] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/goals/create_goal_manager.php on line 297
+[22-Jan-2009 18:02:51] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/goals/show_goal.php on line 110
+[22-Jan-2009 18:05:41] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/goals/show_goal.php on line 114
+[22-Jan-2009 18:05:47] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/goals/show_goal.php on line 114
+[08-Jul-2009 15:20:24] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[16-Sep-2009 15:39:38] PHP Warning:  include(create_goal_admin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/goals/create_goal.php on line 42
+[16-Sep-2009 15:39:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'create_goal_admin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/goals/create_goal.php on line 42
+[16-Sep-2009 15:40:19] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home7/igolgolc/public_html/goals/create_goal_admin.php on line 17
+[10-Oct-2010 16:28:21] PHP Warning:  include(php/phplibraryen.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/goals/show_goalen.php on line 7
+[10-Oct-2010 16:28:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/phplibraryen.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home7/igolgolc/public_html/goals/show_goalen.php on line 7
+[10-Oct-2010 16:28:21] PHP Fatal error:  Call to undefined function  dbconnect() in /home7/igolgolc/public_html/goals/show_goalen.php on line 8
+[29-Aug-2011 15:45:55] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/goals/upload_goalen.php on line 26
+[29-Aug-2011 15:49:28] PHP Fatal error:  Cannot redeclare check_input() (previously declared in /home7/igolgolc/public_html/goals/upload_goalen.php:73) in /home7/igolgolc/public_html/php/phplibraryen.php on line 1291
+[07-Sep-2011 14:27:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/igolgolc/public_html/goals/upload_goalen.php on line 26

@@ -1,0 +1,209 @@
+body{
+	font-size: small;
+	background-color: #FFFFF0;
+	color: #000000;
+	font-family: "Trebuchet MS", Verdana;
+}
+
+a:link {
+		font-size: small;
+		color: #000000;
+		text-decoration: none;
+		font-family: "Trebuchet MS", Verdana;
+}
+
+a:hover {
+		
+		color: #FF0000;
+		cursor: "pointer";
+		font-weight: "bolder";
+		background-color:#6495ed;
+}
+
+table{
+	font-size: small;
+}
+
+a:visited {
+		font-size: small;
+		color: #000000;
+		text-decoration: none;
+		font-family: "Trebuchet MS", Verdana;
+		font-weight: normal;
+}
+
+.header {
+	font-size: small;
+	color: #000000;
+	width: 850px;
+	position: absolute;
+	top: 1px;
+	left: 175px;
+	height: 10%;
+	background-image: url("http://www.igolgol.com/images/graphics/header_back.jpg"); 
+	background-repeat: no-repeat;
+}
+
+.clubid{
+	width: 140px;
+	position: absolute;
+	top: 95px;
+	left: 5px;
+	height: 90px;
+}
+
+.logo{
+	text-align: center;
+}
+
+
+.toptenhits {
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 13px;
+	width: 30%;
+	left: 10%;
+	position: absolute;
+	top: 130px;
+}
+
+.toptenscorers{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 13px;
+	width: 25%;
+	left: 42%;
+	position: absolute;
+	top: 130px;
+}
+
+.toptenassister{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 13px;
+	width: 25%;
+	left: 67%;
+	position: absolute;
+	top: 130px;
+}
+
+.currentuser{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 13px;
+	height: 45px;
+	width: 125px;
+	top: 10px;
+	left: 5px;
+	position: absolute;
+
+}
+
+.logindiv{
+	font-size: x-small;
+	background: #FFFFFF;
+	color: #000000;
+	top: 1px;
+	left: 1025px;
+	position: absolute;
+
+}
+
+.playerdetails{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	width: 40%;
+	top: 20%;
+	left: 8%;
+	position: absolute;
+
+}
+
+.playerstats{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	width: 40%;
+	top: 15%;
+	left: 52%;
+	position: absolute;
+
+}
+
+.playerclub{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	height: 420px;
+	width: 515px;
+	top: 130px;
+	left: 700px;
+	position: absolute;
+
+}
+
+.clubdetails{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	height: 110px;
+	width: 400px;
+	top: 130px;
+	left: 20px;
+	position: absolute;
+
+}
+
+.clubplayersleft{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	height: 310px;
+	width: 50%;
+	top: 130px;
+	left: 20px;
+	position: absolute;
+
+}
+
+.clubplayersright{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	height: 310px;
+	top: 130px;
+	left: 500px;
+	position: absolute;
+
+}
+
+.goaldetails{
+	font-size: small;
+	background: #FFFFFF;
+	color: #000000;
+	padding: 20px;
+	height: 650px;
+	width: 750px;
+	top: 130px;
+	left: 200px;
+	position: absolute;
+
+}
+
+.victory{
+	color: green;
+}
+
+. defeat{
+	color: red;
+}

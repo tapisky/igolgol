@@ -1,0 +1,128 @@
+[01-Dec-2008 13:00:50] PHP Warning:  include(dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/create_ajax_player.php on line 11
+[01-Dec-2008 13:00:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/create_ajax_player.php on line 11
+[01-Dec-2008 13:00:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/players/create_ajax_player.php on line 441
+[01-Dec-2008 13:00:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home7/igolgolc/public_html/players/create_ajax_player.php on line 441
+[01-Dec-2008 14:44:26] PHP Warning:  include(dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/upload_player.php on line 4
+[01-Dec-2008 14:44:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/upload_player.php on line 4
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/players/upload_player.php on line 177
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home7/igolgolc/public_html/players/upload_player.php on line 177
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/players/upload_player.php on line 177
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home7/igolgolc/public_html/players/upload_player.php on line 177
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/players/upload_player.php on line 92
+[01-Dec-2008 14:44:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home7/igolgolc/public_html/players/upload_player.php on line 92
+[01-Dec-2008 14:46:20] PHP Warning:  include(dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/show_player.php on line 5
+[01-Dec-2008 14:46:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/show_player.php on line 5
+[01-Dec-2008 14:46:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/players/show_player.php on line 6
+[01-Dec-2008 14:46:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home7/igolgolc/public_html/players/show_player.php on line 6
+[10-Dec-2008 16:03:24] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:56:01] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:07:06] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:56:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:56:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/igolgolc/public_html/players/search_player.php on line 100
+[17-Dec-2008 16:57:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:03:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:05:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:09:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:14:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:15:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:17:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:29:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:30:42] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:32:07] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:37:52] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:37:52] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home7/igolgolc/public_html/php/phplibrary.php on line 693
+[17-Dec-2008 17:40:11] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:41:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:47:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:48:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:49:42] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[18-Dec-2008 17:24:15] PHP Parse error:  syntax error, unexpected ')' in /home7/igolgolc/public_html/players/upload_player.php on line 39
+[18-Dec-2008 17:42:43] PHP Warning:  strrpos() expects parameter 1 to be string, array given in /home7/igolgolc/public_html/players/upload_player.php on line 100
+[18-Dec-2008 17:48:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/players/upload_player.php:108) in /home7/igolgolc/public_html/players/upload_player.php on line 174
+[18-Dec-2008 17:50:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/players/upload_player.php:102) in /home7/igolgolc/public_html/players/upload_player.php on line 175
+[21-Dec-2008 05:34:58] PHP Warning:  include(php/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/search_player.php on line 10
+[21-Dec-2008 05:34:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/search_player.php on line 10
+[21-Dec-2008 08:34:15] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/create_player.php on line 574
+[21-Dec-2008 08:38:27] PHP Parse error:  syntax error, unexpected T_DEFAULT in /home7/igolgolc/public_html/players/create_player.php on line 548
+[21-Dec-2008 08:40:00] PHP Warning:  include(php/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/create_player.php on line 18
+[21-Dec-2008 08:40:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/create_player.php on line 18
+[22-Dec-2008 12:08:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/players/upload_player.php:6) in /home7/igolgolc/public_html/players/upload_player.php on line 175
+[22-Dec-2008 14:53:45] PHP Parse error:  syntax error, unexpected ';' in /home7/igolgolc/public_html/players/edit_player.php on line 86
+[22-Dec-2008 15:14:37] PHP Parse error:  syntax error, unexpected '&', expecting ';' in /home7/igolgolc/public_html/players/edit_player.php on line 344
+[30-Dec-2008 11:34:52] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 158
+[30-Dec-2008 11:35:48] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 158
+[30-Dec-2008 11:37:22] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 159
+[30-Dec-2008 11:40:59] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 158
+[30-Dec-2008 11:43:03] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 159
+[30-Dec-2008 11:52:19] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 160
+[30-Dec-2008 11:54:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 160
+[30-Dec-2008 12:00:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 160
+[30-Dec-2008 12:02:04] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 162
+[30-Dec-2008 12:09:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 169
+[30-Dec-2008 12:19:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/players/upload_player.php:9) in /home7/igolgolc/public_html/players/upload_player.php on line 188
+[30-Dec-2008 12:20:11] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 161
+[30-Dec-2008 12:21:16] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 161
+[30-Dec-2008 12:25:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 161
+[30-Dec-2008 12:28:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/players/upload_player.php:9) in /home7/igolgolc/public_html/players/upload_player.php on line 187
+[30-Dec-2008 13:41:06] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home7/igolgolc/public_html/players/upload_player.php on line 150
+[30-Dec-2008 13:48:41] PHP Parse error:  syntax error, unexpected '[' in /home7/igolgolc/public_html/players/upload_player.php on line 158
+[06-Jan-2009 16:56:02] PHP Parse error:  syntax error, unexpected T_STRING in /home7/igolgolc/public_html/players/edit_player.php on line 23
+[06-Jan-2009 17:47:19] PHP Fatal error:  Call to undefined function  delete() in /home7/igolgolc/public_html/players/edit_player.php on line 158
+[06-Jan-2009 17:55:51] PHP Warning:  unlink(../images/players/1-1231289462-Tapiador Carretero.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home7/igolgolc/public_html/players/edit_player.php on line 168
+[14-Jan-2009 18:15:30] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/players/show_player.php on line 12
+[14-Jan-2009 18:16:30] PHP Fatal error:  Call to undefined function  dbconnect() in /home7/igolgolc/public_html/players/show_player.php on line 4
+[21-Jan-2009 16:30:53] PHP Fatal error:  Call to undefined function  today() in /home7/igolgolc/public_html/php/player_current_season_goals.php on line 9
+[21-Jan-2009 16:35:24] PHP Warning:  include(../php/player_current_season_assists.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/players/show_player.php on line 183
+[21-Jan-2009 16:35:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/player_current_season_assists.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/players/show_player.php on line 183
+[10-Mar-2009 04:41:16] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[10-Mar-2009 04:41:37] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[10-Mar-2009 04:41:37] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[10-Mar-2009 04:41:40] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[10-Mar-2009 05:14:37] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[21-Mar-2009 10:16:15] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[13-May-2009 05:15:58] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[13-May-2009 05:16:12] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Jun-2009 14:38:47] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Jun-2009 14:39:07] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Jun-2009 14:39:10] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Jun-2009 14:41:18] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[16-Sep-2009 17:45:31] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 16
+[16-Sep-2009 18:30:45] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[16-Sep-2009 18:39:54] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 16
+[16-Sep-2009 18:39:59] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 16
+[17-Sep-2009 04:10:45] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Sep-2009 07:29:32] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[17-Sep-2009 07:41:57] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[22-Sep-2009 09:03:52] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[23-Sep-2009 16:24:51] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[05-Oct-2009 04:52:06] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[05-Oct-2009 04:52:10] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[06-Oct-2009 08:21:20] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[06-Oct-2009 14:20:50] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[07-Oct-2009 00:23:54] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[08-Oct-2009 05:58:20] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[10-Oct-2009 06:02:34] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[11-Oct-2009 11:42:48] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[13-Oct-2009 11:17:35] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[14-Oct-2009 02:11:06] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[14-Oct-2009 02:24:33] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[14-Oct-2009 02:24:40] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[18-Oct-2009 08:28:50] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[21-Oct-2009 06:37:14] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[21-Dec-2009 13:04:52] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[31-Mar-2010 02:32:09] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[23-Apr-2010 21:25:50] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[23-Apr-2010 21:25:58] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[22-Aug-2010 16:26:39] PHP Warning:  Missing argument 2 for print_playerpreview(), called in /home7/igolgolc/public_html/players/search_player.php on line 36 and defined in /home7/igolgolc/public_html/php/phplibrary.php on line 1004
+[26-Aug-2011 09:08:07] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/players/show_playeren.php on line 18
+[09-Sep-2011 10:59:33] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home7/igolgolc/public_html/players/show_playeren.php on line 97
+[11-Sep-2011 17:04:23] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 288
+[11-Sep-2011 18:13:46] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home7/igolgolc/public_html/players/show_playeren.php on line 164
+[12-Sep-2011 14:21:35] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 373
+[13-Sep-2011 14:34:14] PHP Warning:  Missing argument 2 for getgamesplayed(), called in /home7/igolgolc/public_html/players/show_playeren.php on line 128 and defined in /home7/igolgolc/public_html/php/phplibraryen.php on line 1658
+[13-Sep-2011 16:54:20] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/players/show_playeren.php on line 587
+[13-Sep-2011 17:38:47] PHP Warning:  POST Content-Length of 14634720 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[08-Oct-2011 15:33:32] PHP Warning:  Missing argument 2 for getgamesplayed(), called in /home7/igolgolc/public_html/players/show_playeren.php on line 182 and defined in /home7/igolgolc/public_html/php/phplibraryen.php on line 1676
+[08-Oct-2011 15:35:10] PHP Parse error:  syntax error, unexpected ')' in /home7/igolgolc/public_html/players/show_playeren.php on line 182
+[08-Oct-2011 16:18:40] PHP Fatal error:  Call to undefined function  int() in /home7/igolgolc/public_html/players/show_playeren.php on line 165
+[09-Oct-2011 09:36:31] PHP Warning:  Division by zero in /home7/igolgolc/public_html/players/show_playeren.php on line 311

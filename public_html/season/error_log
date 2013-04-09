@@ -1,0 +1,2 @@
+[26-Dec-2011 16:51:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home7/igolgolc/public_html/php/phplibraryen.php on line 6
+[26-Dec-2011 17:01:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home7/igolgolc/public_html/php/phplibraryen.php on line 6

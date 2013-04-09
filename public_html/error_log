@@ -1,0 +1,347 @@
+[30-Nov-2008 10:06:09] PHP Warning:  include(dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/create_ajax_player.php on line 11
+[30-Nov-2008 10:06:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/create_ajax_player.php on line 11
+[30-Nov-2008 10:06:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'igolgolc'@'localhost' (using password: NO) in /home7/igolgolc/public_html/create_ajax_player.php on line 441
+[30-Nov-2008 10:06:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home7/igolgolc/public_html/create_ajax_player.php on line 441
+[30-Nov-2008 10:07:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home7/igolgolc/public_html/dbconnect.php on line 3
+[30-Nov-2008 10:10:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home7/igolgolc/public_html/dbconnect.php on line 3
+[01-Dec-2008 06:47:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home7/igolgolc/public_html/dbconnect.php on line 3
+[10-Dec-2008 15:57:20] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 15:57:20] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 15:57:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 15:58:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 15:58:38] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 15:58:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 15:59:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 15:59:30] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 15:59:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 16:00:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:00:41] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 16:00:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 2
+[10-Dec-2008 16:03:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:03:05] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:03:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:03:08] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:03:08] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:03:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:03:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:03:18] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:03:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:04:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:04:56] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:04:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 10
+[10-Dec-2008 16:05:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:05:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:05:54] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 12
+[10-Dec-2008 16:05:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 12
+[10-Dec-2008 16:06:29] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:07:12] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:07:12] PHP Warning:  include(../php/dbconnect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/test.php on line 12
+[10-Dec-2008 16:07:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/test.php on line 12
+[10-Dec-2008 16:07:52] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:09:34] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:11:06] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:12:01] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:12:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:26:01] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 16:26:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[10-Dec-2008 17:33:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 04:02:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 04:08:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:12:31] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:13:40] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:17:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:17:59] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:18:37] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:19:58] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:20:44] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:21:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:23:20] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:24:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 05:26:39] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:30:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:31:12] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:46:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:47:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:47:55] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:48:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:48:52] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:48:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:48:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:49:33] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:49:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:49:40] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:49:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:49:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:50:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 08:50:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 09:29:32] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[12-Dec-2008 10:54:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[13-Dec-2008 06:15:15] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[13-Dec-2008 10:48:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 10:30:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 10:49:28] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:16:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:16:56] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home7/igolgolc/public_html/test.php on line 50
+[14-Dec-2008 12:18:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:18:16] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home7/igolgolc/public_html/test.php on line 50
+[14-Dec-2008 12:18:42] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:18:42] PHP Parse error:  syntax error, unexpected '&' in /home7/igolgolc/public_html/test.php on line 52
+[14-Dec-2008 12:19:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:19:18] PHP Fatal error:  Cannot redeclare get_playerstrongerfoot() (previously declared in /home7/igolgolc/public_html/php/phplibrary.php:102) in /home7/igolgolc/public_html/php/phplibrary.php on line 127
+[14-Dec-2008 12:20:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:22:06] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:23:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:28:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:29:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 12:29:56] PHP Fatal error:  Function name must be a string in /home7/igolgolc/public_html/test.php on line 56
+[14-Dec-2008 12:30:29] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:30:25] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:30:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:35:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:35:52] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:38:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:38:55] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:40:09] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:40:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:44:37] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:44:38] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:45:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:45:27] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:47:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 15:47:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:01:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:01:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:03:13] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:03:13] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:08:25] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:08:25] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:13:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:13:30] PHP Parse error:  syntax error, unexpected T_INC, expecting ')' in /home7/igolgolc/public_html/test.php on line 50
+[14-Dec-2008 16:14:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:14:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:15:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:18:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:18:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:20:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:20:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:23:15] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:23:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:24:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[14-Dec-2008 16:24:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 04:44:37] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 04:44:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:25:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:25:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:26:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:26:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:32:55] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:32:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:39:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:39:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:41:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 08:41:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 10:54:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 10:54:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:29:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:29:59] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:30:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:30:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:35:01] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:35:02] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:36:28] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:36:29] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:37:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:37:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:39:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:39:31] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:40:43] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:40:44] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:42:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:42:37] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:44:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:44:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:57:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 11:57:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:17:02] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:17:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:17:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:17:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:18:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:18:57] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:21:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:21:11] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:24:53] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:24:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:26:47] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:26:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:28:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[15-Dec-2008 12:28:27] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:47] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:26:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:27:55] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:27:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:29:27] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 02:29:28] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 09:13:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 09:13:20] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 11:45:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 11:45:59] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 15:58:11] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 15:58:27] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 15:58:44] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 16:03:25] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 16:04:06] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 16:04:12] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 16:04:13] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[16-Dec-2008 16:04:14] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 05:59:11] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:57:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:58:11] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:58:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:58:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 06:58:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:55:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 07:55:57] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 09:39:57] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 09:39:58] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 10:38:28] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 10:39:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:06:58] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:06:59] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:35:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:35:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:36:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:36:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:36:37] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:51:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:51:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:56:22] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:56:23] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:56:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:56:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:59:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 15:59:47] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:00:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:00:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:03:29] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:03:30] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:04:06] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:04:07] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:05:24] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:05:25] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:06:34] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:06:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:41:16] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:41:17] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:42:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:42:20] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:45:09] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:45:09] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:48:04] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:48:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:48:50] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:48:51] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:50:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:50:41] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:51:33] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:51:34] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:54:18] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:54:19] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:54:56] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:54:57] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:55:54] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:55:55] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:57:32] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 16:57:33] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:09:34] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:09:34] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:14:39] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:14:40] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:15:43] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:15:44] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:17:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:17:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:20:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:20:10] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:24:48] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:24:49] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:26:13] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:26:14] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:27:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:27:03] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:28:59] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:29:00] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:29:45] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:29:46] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:30:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:30:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:40:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:40:05] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:49:35] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:49:36] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:55:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[17-Dec-2008 17:55:26] PHP Warning:  Cannot load module 'pdo_mysql' because required module 'pdo' is not loaded in Unknown on line 0
+[18-Dec-2008 03:01:04] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/php/phplibrary.php on line 907
+[20-Dec-2008 14:34:24] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/index3.php on line 104
+[20-Dec-2008 14:35:03] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/index3.php on line 244
+[20-Dec-2008 14:36:17] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/index3.php on line 238
+[20-Dec-2008 15:33:29] PHP Fatal error:  Cannot redeclare get_playerclubid() (previously declared in /home7/igolgolc/public_html/php/phplibrary.php:238) in /home7/igolgolc/public_html/php/phplibrary.php on line 278
+[20-Dec-2008 17:21:12] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home7/igolgolc/public_html/index3.php on line 132
+[20-Dec-2008 17:37:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home7/igolgolc/public_html/index3.php on line 147
+[21-Dec-2008 05:24:28] PHP Parse error:  syntax error, unexpected '}' in /home7/igolgolc/public_html/index3.php on line 86
+[21-Dec-2008 05:27:26] PHP Parse error:  syntax error, unexpected '}' in /home7/igolgolc/public_html/index3.php on line 86
+[21-Dec-2008 05:27:30] PHP Parse error:  syntax error, unexpected '}' in /home7/igolgolc/public_html/index3.php on line 86
+[21-Dec-2008 05:29:00] PHP Parse error:  syntax error, unexpected '}' in /home7/igolgolc/public_html/index3.php on line 86
+[13-Jan-2009 16:34:54] PHP Warning:  include(php/phplibrary.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/index3.php on line 3
+[13-Jan-2009 16:34:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/phplibrary.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/index3.php on line 3
+[13-Jan-2009 16:34:54] PHP Fatal error:  Call to undefined function  dbconnect() in /home7/igolgolc/public_html/index3.php on line 4
+[13-Jan-2009 17:46:32] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home7/igolgolc/public_html/php/phplibrary.php on line 1083
+[19-May-2009 13:24:40] PHP Parse error:  syntax error, unexpected '.' in /home7/igolgolc/public_html/php/phplibrary.php on line 946
+[20-May-2009 12:13:57] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/index3.php on line 11
+[20-May-2009 12:15:16] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/index3.php on line 11
+[20-May-2009 13:46:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 59
+[20-May-2009 13:46:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 60
+[20-May-2009 13:46:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 63
+[20-May-2009 13:48:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 59
+[20-May-2009 13:48:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 60
+[20-May-2009 13:48:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 63
+[20-May-2009 13:49:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 59
+[20-May-2009 13:49:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 60
+[20-May-2009 13:49:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/igolgolc/public_html/index3.php:14) in /home7/igolgolc/public_html/php/header.php on line 63
+[08-Jul-2009 15:20:04] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Jul-2009 15:33:31] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[24-Aug-2009 13:41:40] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home7/igolgolc/public_html/php/headeren.php on line 212
+[24-Aug-2009 13:42:35] PHP Warning:  include(php/headeren.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home7/igolgolc/public_html/indexen.php on line 12
+[24-Aug-2009 13:42:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/headeren.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home7/igolgolc/public_html/indexen.php on line 12
+[16-Sep-2009 16:46:19] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/phplibraryen.php on line 20
+[16-Sep-2009 16:49:07] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/phplibraryen.php on line 20
+[16-Sep-2009 16:52:01] PHP Fatal error:  Call to undefined function  get_top3scorers() in /home7/igolgolc/public_html/indexen.php on line 45
+[16-Sep-2009 16:53:28] PHP Fatal error:  Call to undefined function  get_top3assisters() in /home7/igolgolc/public_html/indexen.php on line 66
+[16-Sep-2009 17:11:24] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/headeren.php on line 16
+[16-Sep-2009 17:12:21] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/headeren.php on line 16
+[16-Sep-2009 17:13:01] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/headeren.php on line 16
+[28-Sep-2009 11:21:18] PHP Parse error:  syntax error, unexpected T_WHILE in /home7/igolgolc/public_html/php/phplibraryen.php on line 856
+[28-Sep-2009 11:22:23] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/php/phplibraryen.php on line 856
+[21-Aug-2010 10:13:21] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/phplibraryen.php on line 1284
+[07-Sep-2011 17:56:34] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/indexen.php on line 163
+[11-Sep-2011 10:20:08] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/indexen.php on line 73
+[11-Sep-2011 10:20:52] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/indexen.php on line 73
+[11-Sep-2011 10:20:55] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/indexen.php on line 73
+[11-Sep-2011 10:21:34] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/indexen.php on line 73
+[11-Sep-2011 10:22:03] PHP Parse error:  syntax error, unexpected T_ECHO in /home7/igolgolc/public_html/indexen.php on line 73
+[11-Sep-2011 10:23:59] PHP Parse error:  syntax error, unexpected ')' in /home7/igolgolc/public_html/php/phplibraryen.php on line 1484
+[11-Sep-2011 10:24:30] PHP Warning:  date() expects at least 1 parameter, 0 given in /home7/igolgolc/public_html/php/phplibraryen.php on line 1476
+[11-Sep-2011 10:33:10] PHP Fatal error:  Call to undefined function  output() in /home7/igolgolc/public_html/indexen.php on line 81
+[14-Sep-2011 17:40:28] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home7/igolgolc/public_html/php/headeren.php on line 240
+[02-Oct-2011 11:14:42] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/headeren.php on line 317
+[08-Oct-2011 15:57:48] PHP Parse error:  syntax error, unexpected $end in /home7/igolgolc/public_html/php/phplibraryen.php on line 1827
+[03-Dec-2011 12:55:05] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/indexen.php on line 23
+[03-Dec-2011 12:57:52] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/indexen.php on line 23
+[03-Dec-2011 12:58:05] PHP Parse error:  syntax error, unexpected '<' in /home7/igolgolc/public_html/indexen.php on line 23
+[09-Apr-2013 06:36:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'igolgolc'@'localhost' (using password: YES) in /home7/igolgolc/public_html/php/phplibraryen.php on line 6
+[09-Apr-2013 06:41:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'igolgolc'@'localhost' (using password: YES) in /home7/igolgolc/public_html/php/phplibraryen.php on line 6
+[09-Apr-2013 06:42:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'igolgolc'@'localhost' (using password: YES) in /home7/igolgolc/public_html/php/phplibraryen.php on line 6
