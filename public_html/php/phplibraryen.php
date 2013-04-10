@@ -3,7 +3,7 @@
 // Connects to your Database
 function dbconnect()
 {
-	mysql_connect("localhost", "igolgolc", "Tomtom01") or die(mysql_error()); 
+	mysql_connect("", "", "") or die(mysql_error()); 
 	mysql_select_db("igolgolc_goals") or die(mysql_error()); 
 }
 
@@ -81,7 +81,7 @@ function create_nations($nationality)
 						<option value="Equatorial Guinea">Equatorial Guinea
 						<option value="Eritrea">Eritrea
 						<option value="Estonia">Estonia
-						<option value="España">España
+						<option value="Espaï¿½a">Espaï¿½a
 						<option value="Ethiopia">Ethiopia
 						<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)
 						<option value="Faroe Islands">Faroe Islands
@@ -268,7 +268,7 @@ function get_userinfo($iid)
 	$num=mysql_numrows($result);
 	$r = mysql_fetch_array($result);
 
-	// Get user´s id
+	// Get userï¿½s id
 	$uid=$r["idusers"];
 	
 	// Get user's email
@@ -1474,7 +1474,7 @@ function print_playerpreview($index,$playerid)
 	
 	echo "<tr><td rowspan=4>";
 	
-	// print player´s picture
+	// print playerï¿½s picture
 	// Get the id of the video. We need it to create the correct embeded object for you tube
 	$picture = $r["picture"];
 	if ($picture != "")
@@ -1539,7 +1539,7 @@ function print_clubpreview($clubid)
 	
 	echo "<tr><td rowspan=2>";
 	
-	// print club´s picture
+	// print clubï¿½s picture
 	if ($club_info["logo"] != "")
 	{
 		echo "<img width='100' onclick='show_club(" . $clubid . ")' height='100' src='http://www.igolgol.com/images/club_logos/". $club_info["logo"]. "'></td>";
